@@ -265,9 +265,5 @@ The SARIMAX model consistently outperformed baseline forecasting methods by effe
 
 ---
 
-# Author
 
-**Nagarjun CN**
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
